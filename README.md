@@ -2,7 +2,7 @@
 
 In this project i implemented MLP network using pytorch and train it on Perian MNIST dataset.
 
-## :warning: TechStack/framework used
+## :warning: Libraries used
 
 - [PyTorch](https://pytorch.org/)
 - [OpenCV](https://opencv.org/)
