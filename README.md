@@ -22,7 +22,7 @@ After cloning the repository, run <code>mlp_classification_letters.py</code> on 
 $ python3 mlp_classification_letters.py
 ```
 
-## :key: Results
+## :floppy_disk: Results
 You can see result of thid cod in following picture:
 
 ![image](Result/Figure_1.png)
