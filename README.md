@@ -18,9 +18,9 @@ MLP network is used for this implementation. find MLP class in this file: <code>
 
 ## :bulb: Working
 
-1. Open terminal. Go into the cloned project directory and type the following command:
+1. After cloning the repository, run <code>mlp_classification_letters.py</code> file or open terminal and write following command:
 ```
-$ python3 train_mask_detector.py --dataset dataset
+$ python3 mlp_classification_letters.py
 ```
 
 ## :key: Results
