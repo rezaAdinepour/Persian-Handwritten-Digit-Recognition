@@ -1,2 +1,3 @@
 # Handwritten Digit Recognition on Persian(Farsi) MNIST Dataset
-Persian Handwritten Digit-Recognition With MLP
+
+In this project i implemented MLP network using pytorch and train it on Perian MNIST dataset.
