@@ -10,7 +10,7 @@ In this project i implemented MLP network using pytorch and train it on Perian M
 - [Matplotlib](https://matplotlib.org/)
 
 ## :key: Prerequisites
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [see here](https://github.com/rezaAdinepour/Real-Time-Face-Mask-Detection/blob/main/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [see here](https://github.com/rezaAdinepour/Persian-Handwritten-Digit-Recognition/blob/main/requirements.txt)
 
 ## :chart_with_upwards_trend: Dataset
 I uses persian digit handwritten dataset like [MNIST](http://yann.lecun.com/exdb/mnist/). You can find [here](https://github.com/rezaAdinepour/Persian-Handwritten-Digit-Recognition/tree/main/bmp)
