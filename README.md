@@ -18,7 +18,7 @@ MLP network is used for this implementation. find MLP class in this file: <code>
 
 ## :bulb: Working
 
-1. After cloning the repository, run <code>mlp_classification_letters.py</code> on your IDE or open terminal and write following command:
+After cloning the repository, run <code>mlp_classification_letters.py</code> on your IDE or open terminal and write following command:
 ```
 $ python3 mlp_classification_letters.py
 ```
