@@ -24,4 +24,5 @@ $ python3 mlp_classification_letters.py
 
 ## :key: Results
 You can see result of thid cod in following picture:
+
 ![image](Result/Figure_1.png)
