@@ -17,10 +17,11 @@ MLP network is used for this implementation. find MLP class in this file: <code>
 
 
 ## :bulb: Working
-
 After cloning the repository, run <code>mlp_classification_letters.py</code> on your IDE or open terminal and write following command:
 ```
 $ python3 mlp_classification_letters.py
 ```
 
 ## :key: Results
+You can see result of thid cod in following picture:
+![image](Result/Figure_1.png)
