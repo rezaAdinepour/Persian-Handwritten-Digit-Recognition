@@ -12,5 +12,5 @@ In this project i implemented MLP network using pytorch and train it on Perian M
 ## :chart_with_upwards_trend: Dataset
 I uses persian digit handwritten dataset like [MNIST](http://yann.lecun.com/exdb/mnist/). You can find [here](https://github.com/rezaAdinepour/Persian-Handwritten-Digit-Recognition/tree/main/bmp)
 
-## :key: Neural Network
+## :wrench: Neural Network
 MLP network is used for this implementation. find MLP class in this file: <code>mlp.py</code>
