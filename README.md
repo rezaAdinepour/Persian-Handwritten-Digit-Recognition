@@ -31,5 +31,5 @@ You can see result of thid cod in following picture:
 ![image](Result/Figure_1.png)
 
 ## License
-This project is licensed under the [MIT License](https://github.com/rezaAdinepour/Persian-Handwritten-Digit-Recognition/blob/main/LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
